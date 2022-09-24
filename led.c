@@ -1,3 +1,10 @@
+/*
+# Author : UDOH CHIEMEZIE ALBERT
+# TARGET : MSP430 TEXAS INSTRUMENT MICROCONTROLLER
+# DATE   : 17.09.22
+# PROJECT: BLINKY
+*/
+
 #include "led.h"
 
 void led_init(void)
