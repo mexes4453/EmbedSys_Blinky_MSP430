@@ -5,8 +5,8 @@ A Simpe Embedded Project. This project toggles the LED on the Texas Instrument M
 # Toolchains Required
 It is required that the you have the necessary tool chain from GNU to compile the program
 
-*msp430-elf-gcc (gnu compiler program)
-*mspdebug       (TI Code studio debugger)
+msp430-elf-gcc (gnu compiler program)
+mspdebug       (TI Code studio debugger)
 
 
 
