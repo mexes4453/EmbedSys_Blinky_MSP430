@@ -2,10 +2,10 @@
 A Simpe Embedded Project. This project toggles the LED on the Texas Instrument MSP430 microcontroller. 
 
 
-# Compilation
-This project contains a makefile within for compiling and flashing the code onto the microcontroller
-
-simply type "make" to compile the program.
-
 # Flashing the code onto the Microcontroller
 type "make flash"
+This compiles and flash the program onto the MCU flash memory.
+
+
+# Compilation
+simply type "make" to compile the program only.
